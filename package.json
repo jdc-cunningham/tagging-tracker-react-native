@@ -1,0 +1,28 @@
+{
+  "name": "taggingtracker",
+  "version": "1.0.0",
+  "description": "React Native app for graffiti abatement with code for KC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdc-cunningham/tagging-tracker-react-native.git"
+  },
+  "keywords": [
+    "graffiti",
+    "abatement",
+    "codeforkc"
+  ],
+  "author": "Jacob David C. Cunningham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdc-cunningham/tagging-tracker-react-native/issues"
+  },
+  "homepage": "https://github.com/jdc-cunningham/tagging-tracker-react-native#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
