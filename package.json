@@ -23,6 +23,7 @@
   "homepage": "https://github.com/jdc-cunningham/tagging-tracker-react-native#readme",
   "dependencies": {
     "react": "^16.13.1",
-    "react-native": "^0.62.2"
+    "react-native": "^0.62.2",
+    "react-native-sqlite-storage": "^5.0.0"
   }
 }

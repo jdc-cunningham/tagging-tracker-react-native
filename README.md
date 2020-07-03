@@ -23,3 +23,6 @@ Previous workflow
 - remote
   - login
   - sync up/down
+
+# Run app
+Clone this repo, then cd into it, should be able to just do `npm install`. To run the app you have to cd into the RN app eg. `TaggingTracker` which as its own `package.json` file eg. has the start scripts.
