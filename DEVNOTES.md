@@ -21,6 +21,7 @@
         - [ ] pictures
         - [ ] add pictures
 - [ ] login
+    - probably use async storage for the token... maybe not
 
 ## Functionality
 - [ ] address: add/search/delete

@@ -4,18 +4,12 @@ import {
 } from 'react-native';
 import { getPercent } from './utils/math.js';
 
-const App = () => {
-  return (
-    <>
-      <View>
-        <Text>The App</Text>
-      </View>
-    </>
-  );
-};
+const Navbar = () => {
+
+}
 
 const styles = StyleSheet.create({
 
 });
 
-export default App;
+export default Navbar;
